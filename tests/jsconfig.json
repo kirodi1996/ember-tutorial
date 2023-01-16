@@ -1,0 +1,11 @@
+{
+    "files": ["product.js"],
+    "compilerOptions": {
+        "target": "es2018",
+        "experimentalDecorators": true
+    },
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
